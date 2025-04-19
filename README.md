@@ -1,3 +1,4 @@
+![MasterHead](3EE256DE-D2E3-46B9-909F-E584862AD5BE.png)
 # 👋 Hello, I'm Anirudha P Johare
 
 🎯 Data Science & Data Analytics Enthusiast | 📊   
