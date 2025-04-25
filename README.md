@@ -1,12 +1,12 @@
 ![MasterHead](3EE256DE-D2E3-46B9-909F-E584862AD5BE.png)
-# 👋 Hello, I'm Anirudha P Johare
+#  Hello, I'm Anirudha P Johare
 
-🎯 Data Science & Data Analytics Enthusiast | 📊   
-💡 Passionate about solving real-world problems using data-driven insights
+ Data Science & Data Analytics Enthusiast |   
+ Passionate about solving real-world problems using data-driven insights
 
 ---
 
-### 🧑‍💼 About Me
+###  About Me
 
 I am a highly motivated individual with a strong foundation in **Data Science** and **Data Analytics**, currently transitioning into a full-time career as a **Data Analyst**. With hands-on experience across the data pipeline—from data cleaning and visualization to predictive modeling—I strive to turn raw data into actionable insights.
 
@@ -14,7 +14,7 @@ Currently, I am enhancing my skills through an internship(Remote), while also wo
 
 ---
 
-### 🎓 Education
+###  Education
 
 - **Bachelors Of Management Studies(Marketing)**  
   *Mumbai University* |
@@ -23,19 +23,19 @@ Currently, I am enhancing my skills through an internship(Remote), while also wo
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 
 - **Data Science And Analytics With AI - ITVedant**
   - Comprehensive training in Excel, SQL, Power BI, Tableau, Python, and Machine Learning, AI
 
 - **IBM Certifications**
-  - ✅ Python for Data Science
-  - ✅ Data Analysis with Python
-  - ✅ Machine Learning with Python
+  -  Python for Data Science
+  -  Data Analysis with Python
+  -  Machine Learning with Python
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 1. Python Programming (Pandas,NumPy, Seaborn, Matplotlib, Scikit-Learn)
 2. SQL
@@ -51,39 +51,39 @@ Currently, I am enhancing my skills through an internship(Remote), while also wo
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhajohare19&show_icons=true&locale=en&layout=compact" alt="anirudhajohare19" /></p>
 ---
 
-### 📁 Projects
+###  Projects
 
-#### 💡 Machine Learning Projects
-- 🔐 **Phishing Website Detection** *(Internship Project - Ongoing)*
-- 💳 **Bank Marketing Campaign Analysis** – Applied SMOTE for imbalance handling
-- ❤️ **Heart Disease Prediction** – Classification model using logistic regression
-- 🌾 **Crop Recommendation System** – Recommendation based on soil and weather
-- 🔌 **Energy Consumption Forecasting** – Forecasting using regression with MLOPS
+####  Machine Learning Projects
+-  **Phishing Website Detection** *(Internship Project - Ongoing)*
+-  **Bank Marketing Campaign Analysis** – Applied SMOTE for imbalance handling
+-  **Heart Disease Prediction** – Classification model using logistic regression
+-  **Crop Recommendation System** – Recommendation based on soil and weather
+-  **Energy Consumption Forecasting** – Forecasting using regression with MLOPS
 
-#### 📊 Power BI Dashboards
-- 🛒 **E-commerce Sales Dashboard**
-- 🚚 **Fleet Management Dashboard**
-- 💰 **Financial Analysis Dashboard**
+####  Power BI Dashboards
+-  **E-commerce Sales Dashboard**
+-  **Fleet Management Dashboard**
+-  **Financial Analysis Dashboard**
 
-#### 📊 Tableau Dashboards
-- 📱 ** social Media Dashboard**
-- 📈 ** Retail sales Dashboard**
+####  Tableau Dashboards
+-  ** social Media Dashboard**
+-  ** Retail sales Dashboard**
 
-#### 🔍 SQL Case Studies
-- 🍔 **Swiggy Order Analysis** – Business insights from customer orders & restaurant trends
-- 🚖 **RideTrack Cab Analysis** – Trip pattern, customer behavior, driver analytics
-
----
-
-### 🌱 Currently Working On
-
-- 📌 Strengthening **SQL and Python** for analytics and interview readiness  
-- 🧮 Developing a **3-statement Financial Model** with Power BI integration  
-- 🗣️ Improving skills for business Storytelling
+####  SQL Case Studies
+-  **Swiggy Order Analysis** – Business insights from customer orders & restaurant trends
+-  **RideTrack Cab Analysis** – Trip pattern, customer behavior, driver analytics
 
 ---
 
-### 📬 Connect with Me
+###  Currently Working On
+
+-  Strengthening **SQL and Python** for analytics and interview readiness  
+-  Developing a **3-statement Financial Model** with Power BI integration  
+-  Improving skills for business Storytelling
+
+---
+
+###  Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anirudhajohare/)  
 - 📧 Email: anirudhajohare@gmail.com  
@@ -93,4 +93,4 @@ Currently, I am enhancing my skills through an internship(Remote), while also wo
 
 
 _“Data is the new oil, and I’m here to refine it.”_  
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
